@@ -1,0 +1,6 @@
+@ApiSysGarcom_HostAddress = http://localhost:5104
+
+GET {{ApiSysGarcom_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
